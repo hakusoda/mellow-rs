@@ -1,6 +1,13 @@
 # mellow
 mellow is a Discord bot created by [HAKUMI](https://github.com/hakusoda) that allows Discord server owners to sync member profiles with external services, such as Roblox.<br/>
 
+> [!WARNING]
+> As of October 2nd, the mellow Project has been **deprecated**, and updates have ceased effective **immediately**.
+> 
+> Following an internal plan, mellow will stay online, and be taken **offline** when it is deemed safe to do so.
+> 
+> Thank you for your support! 💌
+
 # Contributing
 To set-up a local development environment, you first need to set the required environment variables.<br/>
 We recommend specifying these in [`.cargo/config.toml`](https://doc.rust-lang.org/cargo/reference/config.html).
